@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>central</id>
+        <id>Shivaya</id>
         <name>51708afbf5e2-releases</name>
         <url>http://13.127.67.19:8081/artifactory/shree-repo</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>Shivaya</id>
         <name>51708afbf5e2-snapshots</name>
         <url>http://13.127.67.19:8081/artifactory/shree-repo</url>
     </snapshotRepository>
